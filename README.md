@@ -1,1 +1,1 @@
-Look (https://react-quiz-90be0.firebaseapp.com/)[click]
+Look [click](https://react-quiz-90be0.firebaseapp.com/)
